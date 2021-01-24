@@ -162,7 +162,7 @@ I had to use this, because using the above
 function for +70,000 items led into crash!
 
 I leave search lines in the main as comment for
-you to check where the problem of my code is.
+you to check where the problem is.
 
 I think it becomes problematic, because the
 above-mentioned function has loops which search
